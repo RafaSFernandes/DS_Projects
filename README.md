@@ -1,2 +1,2 @@
 # DS_Projects
-Repository for studiy and practice purposes.
+Repository for study and practice purposes.
